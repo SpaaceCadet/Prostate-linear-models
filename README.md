@@ -8,7 +8,6 @@ and its levels in the blood can provide valuable information about the presence 
 <br>
 
 
-<div style="text-align:center">
-  <img src="prostate.jpg" alt="Prostate Model">
-</div>
-
+<p align="center">
+ <img src="prostate.jpg" alt="Prostate Model">
+</p>
