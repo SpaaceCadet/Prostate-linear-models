@@ -6,8 +6,8 @@ and its levels in the blood can provide valuable information about the presence 
  By predicting the lpsa variable, we can estimate the severity and aggressiveness of prostate cancer,
  which aids in treatment decision-making and patient management.
 <br>
-<p style="text-align:center">
-<img src='/prostate.jpg'>
-</p>
+<div style="text-align:center">
+  <img src="prostate.jpg" alt="Prostate Model">
+</div>
 
 <br>
