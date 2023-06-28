@@ -8,5 +8,5 @@ and its levels in the blood can provide valuable information about the presence 
 <br>
 <p style="text-align:center">
 <img src='/prostate.jpg'></a>
-</^>
+</p>
 <br>
