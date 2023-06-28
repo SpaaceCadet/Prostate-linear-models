@@ -7,6 +7,7 @@ and its levels in the blood can provide valuable information about the presence 
  which aids in treatment decision-making and patient management.
 <br>
 <p style="text-align:center">
-<img src='/prostate.jpg'></a>
+<img src='/prostate.jpg'>
 </p>
+
 <br>
